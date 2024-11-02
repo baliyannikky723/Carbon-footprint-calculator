@@ -1,6 +1,7 @@
 # CarbonFootprintCalculator
 Calculate your carbon footprint, and find out how much you have to do to eliminate it!
 This repo is in the alpha state. It works, but oh my, it is ugly. Waiting to be implemented on actual site :)
+
 The website link :  https://baliyannikky723.github.io/Carbon-footprint-calculator/
 ___
 
